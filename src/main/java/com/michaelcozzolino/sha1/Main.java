@@ -20,10 +20,7 @@ public class Main extends Application {
 
     public static void main(String[] args) {
         Sha1 sha1 = new Sha1();
-
-        //System.out.println(sha1.compute("abc"));
-
-//        System.exit(0);
+        
         launch(args);
     }
 }
